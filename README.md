@@ -4,8 +4,9 @@ Conceitos e gerenciamento de máquinas virtuais no Azure
 Conceitos Fundamentais do Azure
 - Computação em Nuvem: Azure é uma plataforma de cloud computing que oferece serviços sob demanda como servidores,
 - armazenamento, bancos de dados, redes, inteligência artificial e muito mais.
-- 
+  
 - Modelos de Serviço:
+  
 - IaaS (Infraestrutura como Serviço): Você gerencia VMs, redes e armazenamento.
 - PaaS (Plataforma como Serviço): Ideal para desenvolvedores que querem focar no código sem se preocupar com infraestrutura.
 - SaaS (Software como Serviço): Aplicações completas hospedadas na nuvem (como o Microsoft 365).
